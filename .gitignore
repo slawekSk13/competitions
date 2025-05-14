@@ -92,6 +92,7 @@ Thumbs.db
 *.keytab
 *.kdb
 *.kdbx
+/secrets/
 
 # Mobile development
 *.ipa
